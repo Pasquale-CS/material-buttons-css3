@@ -16,7 +16,7 @@ Include "css/pcs-buttons-md.css" in your project and use class "btn-pcs-md" with
 ```html
 <body>
   ...
-  <button class="btn-pcs-md">Questo è il mio bottone</button>
+  <button class="btn-pcs-md">This is my button</button>
   ...
 </body>
 ```
