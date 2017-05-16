@@ -4,7 +4,7 @@
 	@Description:	Stylesheet with CSS3 class for buttons in style material design;
 */
 
-.btn-md {
+.btn-pcs-md {
 	display: inline-block;
 	cursor: pointer;
 	font-size: 18px; /* Size of text */
@@ -24,8 +24,8 @@
 	-webkit-transition: all 0.5s;
 }
 
-.btn-md:hover,
-.btn-md:active {
+.btn-pcs-md:hover,
+.btn-pcs-md:active {
 	border: none;
 	color: #666666; /* Color for hover text */
 	background-color: #FFFF00; /* Color of hover button */
