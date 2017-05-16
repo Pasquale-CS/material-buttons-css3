@@ -26,7 +26,7 @@ Include "css/pcs-buttons-md.css" in your project and use class "btn-pcs-md" with
 ```
 
 ## Do you Like!
-Geve me a coffee: https://www.paypal.me/pasqualecs
+Give me a coffee: https://www.paypal.me/pasqualecs
 Thank you =)
 
 ***
