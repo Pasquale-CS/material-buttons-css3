@@ -21,7 +21,7 @@ Include "css/pcs-buttons-md.css" in your project and use class "btn-pcs-md" with
 </body>
 ```
 
-
+***
 
 # [IT] - Bottoni CSS3 in stile Material Design con transizione
 Bottoni in stile Material Design creati solo con CSS3, transizione inclusa.
