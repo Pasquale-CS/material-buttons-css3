@@ -25,6 +25,10 @@ Include "css/pcs-buttons-md.css" in your project and use class "btn-pcs-md" with
 </body>
 ```
 
+## Do you Like!
+Geve me a coffee: https://www.paypal.me/pasqualecs
+Thank you =)
+
 ***
 
 # [IT] - Bottoni CSS3 in stile Material Design con transizione
@@ -49,3 +53,6 @@ Includere il file "css/pcs-buttons-md.css" net tuo progetto e aggiungere la clas
   ...
 </body>
 ```
+## Ti Piace!
+Mi offri un caffè: https://www.paypal.me/pasqualecs
+Grazie =)
